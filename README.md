@@ -87,17 +87,17 @@ Here are some ideas to get you started:
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldiiii-mln&label=Profile%20views&color=0e75b6&style=flat" alt="aldiiii-mln" /> </p> -->
 
-- 🔭 I’m currently studying on **universitas uslim ndonesia**
+- 🔭 I’m currently studying on **Universitas Muslim Indonesia**
 
-- 👯 I’m looking to collaborate on **any frontend developers**
+- 👯 I’m looking to collaborate on **Any Frontend Developers**
 
-- 🌱 I’m currently learning **boostrap, react.js, node.js**
+- 🌱 I’m currently learning **Boostrap, React.js, Node.js**
 
-- 🤔 I’m looking for help on how to **optimizing the system and architecture**
+- 🤔 I’m looking for help on how to **Optimizing the System and Architecture**
 
-- 😄 Pronouns: **a man**
+- 😄 Pronouns: **A Man**
 
-- ⚡ Fun fact: **i keep going and looking forward for any opportunity**
+- ⚡ Fun fact: **I Keep Going and Looking Forward for Any Opportunity**
 
 - 📫 How to reach me **aldiialdi60@gmail.com**
 
@@ -118,3 +118,12 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aldiiii-mln&show_icons=true&locale=en" alt="aldiiii-mln" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldiiii-mln&" alt="aldiiii-mln" /></p>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldiiii-mln/aldiiii-mln/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldiiii-mln/aldiiii-mln/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aldiiii-mln/aldiiii-mln/output/pacman-contribution-graph.svg">
+</picture>
+
+###
