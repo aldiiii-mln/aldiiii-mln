@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 </picture>
 
 ### -->
-![Muhammmad Aldi](img/github-header-2.jpg)
+![Muhammmad Aldi](https://raw.githubusercontent.com/aldiiii-mln/aldiiii-mln/main/gif/github-header-2.jpg)
 
 <h1 align="center">Hi 👋, I'm Muhammad Aldi</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
