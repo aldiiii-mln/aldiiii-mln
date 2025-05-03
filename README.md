@@ -120,4 +120,4 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aldiiii-mln&" alt="aldiiii-mln" /></p>
 
 
-![snake gif](https://github.com/aldiiii-mln/aldiiii-mln/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/aldiiii-mln/aldiiii-mln/blob/output/github-snake.svg)
